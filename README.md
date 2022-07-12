@@ -6,7 +6,7 @@
 
 - `python>=3.7`
 - `pyrogram~=2.0.30`
-- `database==0.6.0`
+- `databases==0.6.0`
 
 ## Installation
 
